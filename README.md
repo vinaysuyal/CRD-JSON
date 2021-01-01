@@ -1,11 +1,10 @@
 # CRD-JSON
-
-Thread Safety Ensured
-File access blocked to other resources
-
 Library File : DataStore.java
 Driver File : FreshWorks.java
 Test File : DataStoreTest.java
+
+Thread Safety Ensured, 
+File access blocked to other resources
 
 Unit Tests added for the following features :
 1. create
